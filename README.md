@@ -1,4 +1,4 @@
-google-tag-manager-templates
-============================
+# Google Tag Manager Templates
 
-Google Tag Manager Templates
+Analytics Pros templates for Google Tag Manager
+
